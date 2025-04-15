@@ -1,0 +1,5 @@
+exports.userFixture = {
+  name: 'Test User',
+  email: 'testuser@example.com',
+  password: 'password123'
+};
