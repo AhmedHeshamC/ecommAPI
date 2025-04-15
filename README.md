@@ -399,3 +399,7 @@ All errors return a JSON response:
 ## License
 
 MIT
+
+## Project URLs
+- https://roadmap.sh/projects/ecommerce-api
+- https://github.com/AhmedHeshamC/ecommAPI
