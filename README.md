@@ -396,10 +396,21 @@ All errors return a JSON response:
 
 ---
 
-## License
-
-MIT
-
 ## Project URLs
 - https://roadmap.sh/projects/ecommerce-api
 - https://github.com/AhmedHeshamC/ecommAPI
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
